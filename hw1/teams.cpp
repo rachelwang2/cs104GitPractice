@@ -56,7 +56,7 @@ string* team1, string* team2, int i, int currentIndex) {
      printSolution(team1, team2, teamSize);
    }
    else {
-     for (i; i < nameCount; i++) {
+     for (; i < nameCount; i++) {
        team1[currentIndex] = nameArray[i];
        comboHalf(nameArray, nameCount, teamSize, team1, team2, i+1, currentIndex+1);
      }
@@ -107,4 +107,3 @@ int main(int argc, char* argv[])
 
   return 0;
 }
-
