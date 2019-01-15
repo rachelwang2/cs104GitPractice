@@ -1,0 +1,23 @@
+PROBLEM 1
+Part (a):
+1. Looking up information relevant to the course online., 4. Asking the course staff for help., 8. Copying test cases from my classmates or Piazza when test cases are not graded.
+
+Part (b):
+2. emacs, 3. Eclipse, 4. sublime
+
+Part (c):
+4. Use the normal submission system provided you have grace-days available
+
+Part (d):
+1. Use the normal submission system on the course website, 4. Start the next assignment sooner (hint: this is correct)
+
+PROBLEM 2
+Part (a):
+None, only the git CLI in the course VM
+
+Part (b):
+1. git add hw1q2b.cpp
+2. git log -p -3
+3. git will prompt me for a message using sublime (the editor I configured git with
+
+PROBLEM 4:
