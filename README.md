@@ -1,1 +1,3 @@
 # CS 104 HOMEWORK DIRECTORY RACHEL WANG
+
+cliff is gay
